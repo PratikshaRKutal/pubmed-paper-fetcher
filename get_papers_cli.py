@@ -1,4 +1,3 @@
-# get_papers_cli.py
 
 import click
 from get_papers.pubmed_client import fetch_papers

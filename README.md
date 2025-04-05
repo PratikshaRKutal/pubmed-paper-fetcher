@@ -23,6 +23,6 @@ Make sure you have [Poetry](https://python-poetry.org/docs/#installation) instal
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/pubmed-paper-fetcher.git
+git clone https://github.com/PratikshaRKutal/pubmed-paper-fetcher.git
 cd pubmed-paper-fetcher
 poetry install
